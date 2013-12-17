@@ -12,9 +12,9 @@ high-performance, with priority in that order. This algorithm should be
 amenable to many optimizations including parallelism, GPU acceleration, and
 compiling, but never at the expense of clarity.
 
-<p id="xingetal">Xing, H., Y. Mo, W. Liao, and M. Q. Zhang. 2012. Genome-Wide
+<p id="xingetal">[1] Xing, H., Y. Mo, W. Liao, and M. Q. Zhang. 2012. Genome-Wide
 Localization of Protein-DNA Binding and Histone Modification by a Bayesian
 Change-Point Method with ChIP-seq Data. PLoS Comput Biol <b>8</b>:e1002613.</p>
 
-<p id="leixing">Lai, T. L., and Xing, H. A Simple Bayesian Approach to Multiple
+<p id="leixing">[2] Lai, T. L., and Xing, H. A Simple Bayesian Approach to Multiple
 Change-Points. 2011. Statistica Sinica <b>21</b>:539-569.</p>
